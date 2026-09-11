@@ -6,8 +6,8 @@
 
 ## 订阅链接
 
-- 高速优选：`https://raw.githubusercontent.com/HandsomeMJZ/cfip/refs/heads/main/best_ips.txt`
-- 所有可用：`https://raw.githubusercontent.com/HandsomeMJZ/cfip/refs/heads/main/full_ips.txt`
+- 高速优选：`https://raw.githubusercontent.com/minghe168/cfip-auto/refs/heads/main/best_ips.txt`
+- 所有可用：`https://raw.githubusercontent.com/minghe168/cfip-auto/refs/heads/main/full_ips.txt`
 
 ## 使用方法
 
